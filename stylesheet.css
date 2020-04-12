@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Marcin Ant';
+    src: url('MarcinAnt-Light.eot');
+    src: url('MarcinAnt-Light.eot?#iefix') format('embedded-opentype'),
+        url('MarcinAnt-Light.woff2') format('woff2'),
+        url('MarcinAnt-Light.woff') format('woff'),
+        url('MarcinAnt-Light.ttf') format('truetype'),
+        url('MarcinAnt-Light.svg#MarcinAnt-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Marcin Ant';
+    src: url('MarcinAnt.eot');
+    src: url('MarcinAnt.eot?#iefix') format('embedded-opentype'),
+        url('MarcinAnt.woff2') format('woff2'),
+        url('MarcinAnt.woff') format('woff'),
+        url('MarcinAnt.ttf') format('truetype'),
+        url('MarcinAnt.svg#MarcinAnt') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Berthe';
+    src: url('Berthe-Regular.eot');
+    src: url('Berthe-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Berthe-Regular.woff2') format('woff2'),
+        url('Berthe-Regular.woff') format('woff'),
+        url('Berthe-Regular.ttf') format('truetype'),
+        url('Berthe-Regular.svg#Berthe-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
